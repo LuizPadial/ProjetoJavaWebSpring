@@ -1,8 +1,8 @@
 <span style="font-size:larger;">Projeto Java Web com Spring 
 
-Lógica de programação 
-Programação orientada a objetos 
-Ferramentas
+Lógica de programação em Java
+Programação orientada a objetos (P.O.O)
+Ferramentas:
 Spring Tool Suite (STS)
 Postman
 Resgatar fundamentos de programação
