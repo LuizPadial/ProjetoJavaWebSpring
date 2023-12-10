@@ -18,5 +18,5 @@ Inserir um novo usuário
 ![image](https://github.com/LuizPadial/userdept2/assets/134821865/4fe70bc9-6307-44a9-b538-e1eadba3a5cb)
 ![image](https://github.com/LuizPadial/userdept2/assets/134821865/07cfadea-e5c3-4068-90e4-826c5bbf2376)
 
-![image](https://github.com/LuizPadial/userdept2/assets/134821865/1f2ee468-ec3b-4c3e-8cb1-5e3e763f1f57)
+
 
